@@ -1,26 +1,26 @@
 {
   "clientes": [
     {
-      "nombre": "Hernán Aguirre",
-      "empresa": "Todolimpias",
-      "email": "correo@correo.com",
-      "telefono": "0987654321",
+      "nombre": "Zachery L. Reyes",
+      "empresa": "Sound Advice",
+      "email": "ZacheryLReyes@gustr.com",
+      "telefono": "3182924188",
       "notas": "",
       "id": 1
     },
     {
-      "nombre": "Martha Silva",
-      "empresa": "Todolimpias",
-      "email": "correo1@correo.com",
-      "telefono": "0987654321",
+      "nombre": "Maria R. Davis",
+      "empresa": "Shoe Town",
+      "email": "MariaRDavis@gustr.com",
+      "telefono": "4195613691",
       "notas": "",
       "id": 2
     },
     {
-      "nombre": "Ariana Aguirre",
-      "empresa": "Todolimpias",
-      "email": "correo3@correo.com",
-      "telefono": "0654321987",
+      "nombre": "Ralph M. Engstrom",
+      "empresa": "Advansed Teksyztems",
+      "email": "RalphMEngstrom@superrito.com",
+      "telefono": "8284253083",
       "notas": "",
       "id": 4
     }
