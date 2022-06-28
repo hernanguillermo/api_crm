@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "Hernán Aguirre",
+      "empresa": "Todolimpias",
+      "email": "correo@correo.com",
+      "telefono": "0987654321",
+      "notas": "",
+      "id": 1
+    },
+    {
+      "nombre": "Martha Silva",
+      "empresa": "Todolimpias",
+      "email": "correo1@correo.com",
+      "telefono": "0987654321",
+      "notas": "",
+      "id": 2
+    },
+    {
+      "nombre": "Ariana Aguirre",
+      "empresa": "Todolimpias",
+      "email": "correo3@correo.com",
+      "telefono": "0654321987",
+      "notas": "",
+      "id": 4
+    }
+  ]
+}
